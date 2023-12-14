@@ -21,3 +21,7 @@
 ### Login Page
 ![image](https://github.com/BroLetsCodeIt/Inventory_management_system/assets/113767803/538cff8c-b1cb-4efb-b1f6-c00a954c2892)
 
+### Billing 
+![image](https://github.com/BroLetsCodeIt/Inventory_management_system/assets/113767803/140b932e-d672-46d2-9a6e-d83432e61490)
+
+
