@@ -18,3 +18,6 @@
 ### Dashboard
 ![image](https://github.com/BroLetsCodeIt/Inventory_management_system/assets/113767803/2374c67f-ea52-43d5-9ace-4937871605d9)
 
+### Login Page
+![image](https://github.com/BroLetsCodeIt/Inventory_management_system/assets/113767803/538cff8c-b1cb-4efb-b1f6-c00a954c2892)
+
